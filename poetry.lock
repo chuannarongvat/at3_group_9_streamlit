@@ -229,16 +229,6 @@ files = [
 ]
 
 [[package]]
-name = "sklearn"
-version = "0.0.post11"
-description = "deprecated sklearn package, use scikit-learn instead"
-optional = false
-python-versions = "*"
-files = [
-    {file = "sklearn-0.0.post11.tar.gz", hash = "sha256:af035c4f0b970b7fc2d3856079aa1aa1032df3d7f65048a9d87114abf13c4629"},
-]
-
-[[package]]
 name = "threadpoolctl"
 version = "3.2.0"
 description = "threadpoolctl"
@@ -263,4 +253,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "68e53183de18f69b50210769b3088908242095caf2c277e011880530d498e520"
+content-hash = "73a847224252e64c44e9ae121870db2e1f8484b53b4e7602f7398f71e267d249"
