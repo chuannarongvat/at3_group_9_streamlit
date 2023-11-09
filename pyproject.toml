@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "at3-group-9-streamlit"
+version = "0.1.0"
+description = ""
+authors = ["chuannarongvat <narongvat.chingpayakmon@student.uts.edu.au>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
