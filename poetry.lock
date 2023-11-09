@@ -190,6 +190,16 @@ files = [
 ]
 
 [[package]]
+name = "sklearn"
+version = "0.0.post11"
+description = "deprecated sklearn package, use scikit-learn instead"
+optional = false
+python-versions = "*"
+files = [
+    {file = "sklearn-0.0.post11.tar.gz", hash = "sha256:af035c4f0b970b7fc2d3856079aa1aa1032df3d7f65048a9d87114abf13c4629"},
+]
+
+[[package]]
 name = "tzdata"
 version = "2023.3"
 description = "Provider of IANA time zone data"
@@ -203,4 +213,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "745c8131b7f9374f678e61e08ac29f72044278b1db1a601cf11c6004a3b13256"
+content-hash = "3803d4b356e52ee74e616a2248b9fe8836411109fd827a10cb969c416959a8f7"
