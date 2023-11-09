@@ -53,7 +53,7 @@ Project Organization
     │ └── table.csv - Dataset containing relevant features.
     │
     ├── models/
-    │ └── dt_regressor.joblib - The trained Decision Tree regressor model.
+    │ └── lr_model.joblib - The trained Linear Regression model.
     │
     ├── streamlit/
     │ └── app.py - Streamlit application entry point.
