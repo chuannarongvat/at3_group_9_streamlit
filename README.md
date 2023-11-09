@@ -2,6 +2,10 @@
 
 This repository contains the Streamlit application developed by AT3 Group 9.
 
+**Links to the Streamlit application (click to access):**  
+## [Streamlit Application](https://at3group9app-j9uwhfpnn3xj8jxffdkedh.streamlit.app/)
+
+
 ## Main Functionalities
 
 ### Fare Prediction
